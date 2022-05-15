@@ -1,13 +1,18 @@
-# Getting Started with Create React App
+# Marvel quiz app build in React/Firebase
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## To setup
+
+
 
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm install`
+Install all dependencies provide by package.json and
 
 ### `npm start`
-
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
