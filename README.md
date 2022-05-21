@@ -58,6 +58,7 @@
 This section should list any major frameworks/libraries used to bootstrap this project. 
 
 * [React.js](https://reactjs.org/)
+* [Firebase](https://firebase.google.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

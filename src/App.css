@@ -331,15 +331,17 @@ footer {
   display: block;
   margin: 0 auto 20px;
   min-width: 150px;
-  background-color: transparent;
+  background-color: var(--red-color);
   color: var(--white-color);
   padding: 7px;
   font-size: 15px;
   border-radius: 5px;
+  border-color: var(--white-color);
 }
 
 .formContent button:hover {
-  background-color: var(--red-color);
+  /* background-color: transparent; */
+  background-color: black;
   color: var(--white-color);
   cursor: pointer;
 }
@@ -369,14 +371,13 @@ button[disabled]:hover {
   font-size: 12px;
 }
 
-
 .simpleLink {
   color: var(--white-color);
   text-decoration: none;
   font-size: 12px;
 }
 
-.simpleLink:hover .red-simpleLink:hover{
+.simpleLink:hover ,.red-simpleLink:hover{
   color: var(--red-color);
 }
 /* END SIGNUP - LOGIN - FORGETPASSWORD */

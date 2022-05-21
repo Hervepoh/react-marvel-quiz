@@ -1,0 +1,31 @@
+[debug] [2022-05-18T18:51:27.211Z] ----------------------------------------------------------------------
+[debug] [2022-05-18T18:51:27.212Z] Command:       C:\Users\HERVE~1.NGA\DOWNLO~1\firebase-tools-instant-win.exe C:\Users\herve.ngando\.cache\firebase\tools\lib\node_modules\firebase-tools\lib\bin\firebase init
+[debug] [2022-05-18T18:51:27.213Z] CLI Version:   10.9.2
+[debug] [2022-05-18T18:51:27.213Z] Platform:      win32
+[debug] [2022-05-18T18:51:27.213Z] Node Version:  v12.18.1
+[debug] [2022-05-18T18:51:27.213Z] Time:          Wed May 18 2022 19:51:27 GMT+0100 (GMT+01:00)
+[debug] [2022-05-18T18:51:27.214Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-05-18T18:51:27.219Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-05-18T18:51:27.220Z] > authorizing via signed-in user (epohherve63@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\appStore\react-marvel-quiz
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
+[debug] [2022-05-18T18:58:45.893Z] Error: kill ENOSYS
+    at process.kill (internal/process/per_thread.js:198:13)
+    at process.listener (C:\Users\herve.ngando\.cache\firebase\tools\lib\node_modules\firebase-tools\node_modules\signal-exit\index.js:95:15)
+    at process.emit (events.js:315:20)
+[error] 
+[error] Error: An unexpected error has occurred.
